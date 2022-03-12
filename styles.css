@@ -1,0 +1,40 @@
+
+#container { 
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#container div {
+    width: 180px;
+
+}
+
+#container button {
+    width: 75%;
+    padding: 15px 15px;
+    margin: 5px;
+}
+
+#transaction {
+    width: 250px;
+    height: 200px;
+    border: 1px solid #c3c3c3;
+    overflow: auto;
+}
+
+span {
+    padding: 20px;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+#tax {
+    padding: 58px;
+}
+
+#total {
+    padding: 47px;
+}
+
+
